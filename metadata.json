@@ -1,0 +1,8 @@
+{
+  "name": "邻加管理平台",
+  "description": "工业级智能门店管理与巡检系统管理端，集成AI风险预测、多维数据看板及全生命周期巡检追踪。",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
